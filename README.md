@@ -52,3 +52,8 @@ Assets/
 
 Packages/
 ProjectSettings/
+
+## Демо-видео
+
+Демонстрация игрового процесса доступна по ссылке:  
+[Открыть видео на Google Drive](https://drive.google.com/file/d/1Aw3OYgw1j0ya6ALGh_mZ6_cD4wFBzUUt/view?usp=sharing)
